@@ -24,7 +24,7 @@ public class AppTest
 	public void testApp()
     {
         AssertJUnit.assertTrue( true );
-        System.out.println("Successfully logged out");
+        System.out.println("Successfully logged out new");
 
     }
 }
